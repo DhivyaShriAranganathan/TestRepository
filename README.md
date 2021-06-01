@@ -17,3 +17,5 @@ git commit -a --author="Dhivya Aranganathan <dhivyashri.aranganathan@gmail.com>"
 
 
 5 . git push
+
+6. git checkout -b "branchname"
